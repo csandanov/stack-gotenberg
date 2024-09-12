@@ -1,0 +1,8 @@
+name: gotenberg
+title: Gotenberg
+icon: gotenberg
+
+services:
+- name: gotenberg
+  title: Gotenberg
+  service: gotenberg
