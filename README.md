@@ -1,1 +1,1 @@
-# stack-gotenberg
+# Gotenberg stack for Wodby 2.0
